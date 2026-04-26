@@ -167,7 +167,7 @@ export default function Index() {
   const tasks = activeSubject ? activeSubject[examTab] : [];
 
   return (
-    <div className="min-h-screen bg-[#F7F8FA]" style={{ fontFamily: "'Golos Text', sans-serif" }}>
+    <div className="min-h-screen bg-[#F7F8FA]" style={{ fontFamily: "'Rubik', sans-serif" }}>
       {/* Header */}
       <header className="bg-white border-b border-gray-100 sticky top-0 z-50">
         <div className="max-w-5xl mx-auto px-4 h-14 flex items-center justify-between">
